@@ -1,5 +1,5 @@
 import React from "react";
-import { BrowserRouter as Router, Route } from "react-router-dom";
+import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import About from "./pages/About";
 import Portfolio from "./pages/Portfolio";
 import Container from "./components/Container";
@@ -14,8 +14,10 @@ function App() {
       <Container>
         <h1>Qi Feng</h1>
         <Navbar />
-        <Route exact path="/" component={About} />
-        <Route exact path="/portfolio" component={Portfolio} />
+        <Switch>
+          <Route path="/" exact component={About} />
+          <Route path="/portfolio" component={Portfolio} />
+        </Switch>
       </Container>
       <Footer />
     </Router>
