@@ -34,7 +34,7 @@ App is listening on port 3000 when running on local machine. Run the following c
 
 App is deployed on Heroku. Access via link below:
 
-[https://vast-wildwood-47508.herokuapp.com/]
+[https://blooming-reef-17800.herokuapp.com/]
 
 # License
 
