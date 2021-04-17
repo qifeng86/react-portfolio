@@ -1,7 +1,7 @@
 import React from "react";
-import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
+import { BrowserRouter as Router, Route } from "react-router-dom";
 import About from "./pages/About";
-import Portfolio from "./pages/Portfolio.js";
+import Portfolio from "./pages/Portfolio";
 import Container from "./components/Container";
 import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
@@ -14,10 +14,8 @@ function App() {
       <Container>
         <h1>Qi Feng</h1>
         <Navbar />
-        <Switch>
-          <Route path="/" component={About} />
-          <Route path="/portfolio" component={Portfolio} />
-        </Switch>
+        <Route exact path="/" component={About} />
+        <Route exact path="/portfolio" component={Portfolio} />
       </Container>
       <Footer />
     </Router>
