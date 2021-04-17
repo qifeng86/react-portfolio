@@ -4,7 +4,7 @@
 
 # Description
 
-The applicaition is an employee directory built with React. An employee or manager would benefit greatly from being able to view non-sensitive data about other employees.
+This is a react app that showcases my boot camp portfolios
 
 # Table of Contents
 * [Description](#description)
