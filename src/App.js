@@ -14,7 +14,7 @@ function App() {
       <Container>
         <h1>Qi Feng</h1>
         <Navbar />
-        <Route exact path={["/"]} component={About} />
+        <Route exact path="/" component={About} />
         <Route exact path="/portfolio" component={Portfolio} />
       </Container>
       <Footer />
