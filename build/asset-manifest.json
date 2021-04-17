@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/qifeng86/react-portfolio/static/css/main.851f3803.chunk.css",
+    "main.js": "/qifeng86/react-portfolio/static/js/main.2716640d.chunk.js",
+    "main.js.map": "/qifeng86/react-portfolio/static/js/main.2716640d.chunk.js.map",
+    "runtime-main.js": "/qifeng86/react-portfolio/static/js/runtime-main.5231ff56.js",
+    "runtime-main.js.map": "/qifeng86/react-portfolio/static/js/runtime-main.5231ff56.js.map",
+    "static/js/2.2e0509f8.chunk.js": "/qifeng86/react-portfolio/static/js/2.2e0509f8.chunk.js",
+    "static/js/2.2e0509f8.chunk.js.map": "/qifeng86/react-portfolio/static/js/2.2e0509f8.chunk.js.map",
+    "index.html": "/qifeng86/react-portfolio/index.html",
+    "precache-manifest.8fd6d0f1be0eba97358a461da2ee2084.js": "/qifeng86/react-portfolio/precache-manifest.8fd6d0f1be0eba97358a461da2ee2084.js",
+    "service-worker.js": "/qifeng86/react-portfolio/service-worker.js",
+    "static/css/main.851f3803.chunk.css.map": "/qifeng86/react-portfolio/static/css/main.851f3803.chunk.css.map",
+    "static/js/2.2e0509f8.chunk.js.LICENSE.txt": "/qifeng86/react-portfolio/static/js/2.2e0509f8.chunk.js.LICENSE.txt",
+    "static/media/DSC00484.JPG": "/qifeng86/react-portfolio/static/media/DSC00484.21b3f547.JPG",
+    "static/media/App.css": "/qifeng86/react-portfolio/static/media/background.534d0833.jpg",
+    "static/media/bigmood.jpg": "/qifeng86/react-portfolio/static/media/bigmood.d7432a0c.jpg",
+    "static/media/budgettracker.jpg": "/qifeng86/react-portfolio/static/media/budgettracker.c424fe7a.jpg",
+    "static/media/burgerlogger.jpg": "/qifeng86/react-portfolio/static/media/burgerlogger.c24e995d.jpg",
+    "static/media/employeetracker.jpg": "/qifeng86/react-portfolio/static/media/employeetracker.cc745dff.jpg",
+    "static/media/qi-feng-resume.pdf": "/qifeng86/react-portfolio/static/media/qi-feng-resume.c2606fd3.pdf",
+    "static/media/reactportfolio.jpg": "/qifeng86/react-portfolio/static/media/reactportfolio.e71230a5.jpg",
+    "static/media/resume-cv.PNG": "/qifeng86/react-portfolio/static/media/resume-cv.e113caf7.PNG",
+    "static/media/workouttracker.jpg": "/qifeng86/react-portfolio/static/media/workouttracker.d251631f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5231ff56.js",
+    "static/js/2.2e0509f8.chunk.js",
+    "static/css/main.851f3803.chunk.css",
+    "static/js/main.2716640d.chunk.js"
+  ]
+}
