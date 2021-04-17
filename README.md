@@ -21,7 +21,6 @@ This application requires node.js to be installed in order to provide backend ru
 
 - React
 - ReactDOM
-- axios
 
 Run the following command to install all required packages:
 
@@ -53,7 +52,6 @@ Qi Feng
 - Heroku
 - React
 - ReactDOM
-- axios
 
   
 # Questions
