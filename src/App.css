@@ -1,0 +1,68 @@
+body {
+  background-image: url("./components/assets/images/background.jpg");
+  padding-bottom: 130px;
+}
+
+a:hover {
+  color: #2b86db;
+}
+
+.bio {
+text-align: center;
+}
+
+h1 {
+  color:#ffffff;
+  background-color:#2b86db;
+  font-family: 'Georgia', Times, 'Times New Roman', serif;
+  padding: 10px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.midsection{
+  color: #777777;
+  background-color:#ffffff;
+  border: 1px solid #2b86db;
+  padding:50px;
+  position: relative;
+  top: 35px;
+}
+
+.profile-pic {
+  margin-right: 20px;
+  height: 400px;
+}
+
+.bio {
+  margin: 20px;
+}
+
+.footer {
+  background-color: #2b86db;
+  color: #ffffff;
+  height: 50px;
+  position: fixed;
+  bottom: 0;
+  width:100%;
+}
+
+.copyright {
+  position: relative;
+  top: 15px;
+}
+
+.button-container {
+  margin-top: 20px;
+}
+
+.deployedBtn {
+  background-color: #2b86db;
+  color:#ffffff;
+}
+
+@media screen and (min-width: 992px) {
+  nav {
+     justify-content: flex-end;
+  }  
+} 
