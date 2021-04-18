@@ -16,14 +16,14 @@ function Project(props) {
         <button
           type="button"
           className="btn btn-primary btn-lg btn-block deployedBtn"
-          onClick={() => window.open(props.linkDeployed)}
+          onClick={() => window.open(props.herokuUrl)}
         >
           {props.name}
         </button>
         <button
           type="button"
           className="btn btn-primary btn-lg btn-block githubBtn"
-          onClick={() => window.open(props.linkGithub)}
+          onClick={() => window.open(props.githubURL)}
         >
           {props.github}
         </button>
