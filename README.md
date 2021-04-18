@@ -28,7 +28,7 @@ Run the following command to install all required packages:
 
 # Usage
 
-App is listening on port 3000 when running on local machine. Run the following command to start:
+App is listening on port 5000 when running on local machine. Run the following command to start:
 
 - `npm start`
 
