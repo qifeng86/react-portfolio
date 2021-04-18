@@ -4,7 +4,7 @@
 
 # Description
 
-This is a react app that showcases my boot camp portfolios
+This is a react app that showcases my coding boot camp portfolios
 
 # Table of Contents
 * [Description](#description)
@@ -28,13 +28,13 @@ Run the following command to install all required packages:
 
 # Usage
 
-App is listening on port 3000 when running on local machine. Run the following command to start:
+App is listening on port 5000 when running on local machine. Run the following command to start:
 
 - `npm start`
 
 App is deployed on Heroku. Access via link below:
 
-[https://vast-wildwood-47508.herokuapp.com/]
+[https://blooming-reef-17800.herokuapp.com/]
 
 # License
 
