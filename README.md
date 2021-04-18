@@ -4,7 +4,7 @@
 
 # Description
 
-This is a react app that showcases my boot camp portfolios
+This is a react app that showcases my coding boot camp portfolios
 
 # Table of Contents
 * [Description](#description)
